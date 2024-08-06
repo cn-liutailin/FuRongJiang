@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://j.liutailin.cn/blog</id>
+    <title>《芙蓉江》 Blog</title>
+    <updated>2023-09-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://j.liutailin.cn/blog"/>
+    <subtitle>《芙蓉江》 Blog</subtitle>
+    <icon>https://j.liutailin.cn/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[第三届文学社]]></title>
+        <id>https://j.liutailin.cn/blog/3rd</id>
+        <link href="https://j.liutailin.cn/blog/3rd"/>
+        <updated>2023-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello]]></summary>
+        <content type="html"><![CDATA[<p>hello</p><div style="text-align:center;margin-top:1rem">Loading...</div>]]></content>
+        <author>
+            <name>Gu Weifang</name>
+        </author>
+        <author>
+            <name>Wang Huan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二届文学社]]></title>
+        <id>https://j.liutailin.cn/blog/2nd</id>
+        <link href="https://j.liutailin.cn/blog/2nd"/>
+        <updated>2022-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello]]></summary>
+        <content type="html"><![CDATA[<p>hello</p><div style="text-align:center;margin-top:1rem">Loading...</div>]]></content>
+        <author>
+            <name>Zhao Ruoxi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一届文学社]]></title>
+        <id>https://j.liutailin.cn/blog/1st</id>
+        <link href="https://j.liutailin.cn/blog/1st"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello]]></summary>
+        <content type="html"><![CDATA[<p>hello</p><div style="text-align:center;margin-top:1rem">Loading...</div>]]></content>
+        <author>
+            <name>Liu Tailin</name>
+            <uri>https://liutailin.cn</uri>
+        </author>
+    </entry>
+</feed>
